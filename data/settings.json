@@ -1,11 +1,19 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Welcome",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Welcome to Terminal",
+          "slug": "welcome-to-terminal"
+        },
+        {
+          "title": "Get Started",
+          "slug": "get-started"
+        },
+        {
+          "title": "Discover Terminal",
+          "slug": "discover-terminal"
         }
       ]
     },
